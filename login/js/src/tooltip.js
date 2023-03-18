@@ -8,10 +8,10 @@
 import {
   DefaultWhitelist,
   sanitizeHtml
-} from './tools/sanitizer'
+} from '/tools/sanitizer'
 import $ from 'jquery'
 import Popper from 'popper.js'
-import Util from './util'
+import Util from '/util'
 
 /**
  * ------------------------------------------------------------------------

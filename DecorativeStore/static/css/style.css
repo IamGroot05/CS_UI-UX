@@ -515,7 +515,7 @@ select {
 
 #form_buy select {
   width: 196px;
-  background: url(../img/icon-img/sell-down.jpg) no-repeat right 3px;
+  background: url(../staticimg/icon-img/sell-down.jpg) no-repeat right 3px;
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
@@ -822,7 +822,7 @@ select {
 }
 
 /* .homecategory {
-    background-image: url('../../static/img/products/11.jpg');
+    background-image: url('../static.../staticstatic/img/products/11.jpg');
 }
 */
 
